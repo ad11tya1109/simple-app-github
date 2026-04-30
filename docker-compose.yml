@@ -1,0 +1,5 @@
+services:
+  webserver:
+    image: ghcr.io/ad11tya1109/nginx-AdityaPutra
+    ports:
+      - "8080:80"
